@@ -17,7 +17,13 @@ Binary Search for the element O(log n)
 Traversing array - O(n)
 Total Time complexity - O(n log n)
 
-Approach 3 - Unordered Set
+Approach 3 - Two pointer
+Using two pointers at start and end, check for sum in a sorted array.
+Sorting - O(nlog n)
+Two pointer traversing - O(n)
+Total timecomplexity - O(n log n)
+
+Approach 4 - Unordered Set
 Checking for element in set O(1) if present return else insert that elemnt into set.
 Time Complexity (most optimal) - O(n)
 */
