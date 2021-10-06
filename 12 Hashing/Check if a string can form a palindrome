@@ -1,4 +1,5 @@
-Given a string that consists of lowercase characters.
+Given a string str, that consists of lowercase characters.
 Check if characters of the given string can be rearranged to form a palindrome.
-Problem Constraints
-1 <= |string| <= 1e5
+
+Problem Constraints:
+1 <= |str|<= 1e5
