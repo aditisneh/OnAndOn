@@ -1,4 +1,5 @@
 ##  C++ program to find minimum depth of a given Binary Tree
+
 ```
 #include<bits/stdc++.h>
 using namespace std;
