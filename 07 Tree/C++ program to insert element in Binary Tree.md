@@ -77,7 +77,7 @@ void inorder(Node* temp)
 	inorder(temp->right);
 }
 
-// Driver code
+// Driver code  
 int main()
 {
 	Node* root = CreateNode(10);
