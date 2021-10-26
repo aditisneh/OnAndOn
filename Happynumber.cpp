@@ -1,5 +1,4 @@
  /*  Program Name: To check whether a number is happy or not
-    Program Author: Sayantan Bose
 */
 
 #include<iostream>
