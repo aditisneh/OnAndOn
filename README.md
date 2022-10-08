@@ -1,6 +1,6 @@
 # OnAndOn
 
-### `hacktoberfest` `hacktoberfest-accepted` `hacktoberfest2021`
+### `hacktoberfest` `hacktoberfest-accepted` `hacktoberfest2021` `hacktoberfest-2022`
 
 ## This repository is open to all members of the GitHub community.
 
